@@ -16,7 +16,7 @@
     "outDir": "./build",
     "strict": true,
     "noEmit": false,
-    "esModuleInterop": true
+    "esModuleInterop": true,
   },
   "include": [
     "*.ts",

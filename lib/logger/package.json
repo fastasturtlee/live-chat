@@ -1,0 +1,15 @@
+{
+    "name": "@shared/logger",
+    "version": "1.0.0",
+    "private" : true,
+    "description": "",
+    "main": "index.ts",
+    "type": "module",
+    "scripts": {
+      "start": "echo \"Error: no test specified\" && exit 1",
+      "dev": "ts-node index.ts"
+    },
+    "author": "",
+    "license": "ISC"
+}
+  
